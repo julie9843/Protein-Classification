@@ -14,3 +14,5 @@ The dataset used can be found on [Kaggle](https://www.kaggle.com/shahir/protein-
 The [Data Exploration notebook](https://github.com/julie9843/Protein-Classification/blob/main/Data%20Exploration.ipynb) consist of processing, transforming and cleaning the dataset. 
 The [initial model](https://github.com/julie9843/Protein-Classification/blob/main/Machine%20Learning.ipynb) was built on classification machine learning models. However, the accuracies returned were low. I then turned to NLP processing and neural networks to build my [model](https://github.com/julie9843/Protein-Classification/blob/main/Final_NLP.ipynb). 
 Then I proceeded to deploying my [app](https://github.com/julie9843/Protein-Classification/blob/main/app.py). A demo of how to navigate through the app is also shown in the [demo](https://github.com/julie9843/Protein-Classification/blob/main/Demo.mp4) file. 
+
+
